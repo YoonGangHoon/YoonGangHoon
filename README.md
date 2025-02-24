@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
 <div align="center">
-  <img src="https://img.shields.io/badge/openjdk-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </div>
 
@@ -47,10 +47,10 @@
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
-  <a href="https://velog.io/@yghun021007">
+  <a style="text-decoration:none;" href="https://velog.io/@yghun021007">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
   </a>
-  <a href="mailto:yghun021007@knu.ac.kr">
+  <a style="text-decoration:none;" href="mailto:yghun021007@knu.ac.kr">
     <img
       src="https://img.shields.io/badge/yghun021007@knu.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
